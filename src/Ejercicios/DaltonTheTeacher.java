@@ -35,7 +35,7 @@ public class DaltonTheTeacher {
             } else {
                 System.out.println(1 + (In - 1) / 2);  // Fórmula para calcular en base a infelices
             }
-        }/////sgfg
+        }
         
         scanner.close();
     }
